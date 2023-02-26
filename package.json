@@ -1,0 +1,18 @@
+{
+    "name": "assessment",
+    "version": "1.0.0",
+    "description": "code",
+    "main": "index.js",
+    "scripts": {
+        "test": "testcafe chrome tests/"
+    },
+    "author": "Assessment",
+    "license": "ISC",
+    "devDependencies": {
+        "@faker-js/faker": "^7.6.0",
+        "testcafe": "^2.3.1"
+    },
+    "dependencies": {
+        "faker": "^5.5.3"
+    }
+}
